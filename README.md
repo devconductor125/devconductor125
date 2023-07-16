@@ -28,6 +28,7 @@ My stack includes:
 
 
 And I have experience with
+
 ✅ AWS - Amplify, AppSync, Lambda, Elastic Beanstalk, RDS, S3, EC2, ECR, ECS, VPC, API Gateways, SNS, CodeCommit, CodeBuild, CodePipeline, CodeDeply, etc
 
 ✅ Firebase, Heroku, Vercel, Netlify, GoDaddy, Digital Ocean
@@ -37,7 +38,6 @@ And I have experience with
 ✅ Payment providers - Stripe, PayPal & Apple Pay
 
 ✅ Docker | Nginx
-
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
 
 
