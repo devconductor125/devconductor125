@@ -199,9 +199,7 @@ And I have experience with
 
 ✅ Docker | Nginx
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
-
-
-## <h2>Get in touch<h2>
+## Get in touch
 mailto: stresscontroller9@gmail.com <br/>
 skype: live:.cid.63b997fdf7455f36
 
