@@ -201,8 +201,7 @@ And I have experience with
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
 
 
-<br>
-## Get in touch
+## <h2>Get in touch<h2>
 mailto: stresscontroller9@gmail.com <br/>
 skype: live:.cid.63b997fdf7455f36
 
