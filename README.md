@@ -40,5 +40,9 @@ And I have experience with
 ✅ Docker | Nginx
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
 
+Contact me via 
+  mailto: stresscontroller9@gmail.com
+  skype: live:.cid.63b997fdf7455f36
+
 
 Thanks for your reading my profile.
