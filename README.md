@@ -200,7 +200,7 @@ And I have experience with
 ✅ Docker | Nginx
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
 ## Get in touch
-mailto: stresscontroller9@gmail.com <br/>
+mailto: lula68125@gmail.com <br/>
 skype: live:.cid.63b997fdf7455f36
 
 Thanks for your reading my profile.
