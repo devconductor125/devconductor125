@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devconductor125
+![image](https://github.com/devconductor125/devconductor125/assets/137276110/3c3bafeb-8eb3-4d15-98b2-74bc30e056b4)- 👋 Hi, I’m @devconductor125
 
 I have been working an individual full-stack developer for 8+ years.
 
@@ -39,15 +39,15 @@ I have been working an individual full-stack developer for 8+ years.
         <a href="#Node">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node" />
         </a>
-        <br>Node
+        <br>NodeJS
     </td>
   </tr>
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="HTML5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>   
     <td align="center" width="96">
       <a href="#css3">
@@ -63,7 +63,7 @@ I have been working an individual full-stack developer for 8+ years.
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
@@ -74,10 +74,10 @@ I have been working an individual full-stack developer for 8+ years.
       <br>Vue JS
     </td>
      <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://seekicon.com/free-icon-download/nextjs_1.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#nextjs">
+        <img src="https://seekicon.com/free-icon-download/nextjs_1.svg" width="48" height="48" alt="Nextjs" />
       </a>
-      <br>Nuxt JS
+      <br>Next.JS
     </td>      
   </tr>
   
@@ -96,7 +96,7 @@ I have been working an individual full-stack developer for 8+ years.
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -109,19 +109,26 @@ I have been working an individual full-stack developer for 8+ years.
      <td align="center" width="96">
         <a href="#flutter">
             <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="48" height="48"
-                alt="flutter" />
+                alt="Flutter" />
         </a>
         <br>Flutter
     </td>
     <td align="center" width="96">
         <a href="#reactnative">
             <img src="https://seekicon.com/free-icon-download/react_5.svg" width="48"
-                height="48" alt="alpinejs" />
+                height="48" alt="ReactNative" />
         </a>
         <br>React Native
     </td>   
   </tr>
    <tr>
+     </td>
+      <td align="center" width="96">
+      <a href="#python" >
+        <img src="https://seekicon.com/free-icon-download/python_4.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
       <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
@@ -151,13 +158,7 @@ I have been working an individual full-stack developer for 8+ years.
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
-    </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
+    
   </tr>
 </table>
 <br>
