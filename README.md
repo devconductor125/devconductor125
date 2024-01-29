@@ -107,11 +107,11 @@ I have been working an individual full-stack developer for 8+ years.
       <br>TypeScript
     </td>
      <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
+        <a href="#flutter">
+            <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="48" height="48"
+                alt="flutter" />
         </a>
-        <br>Livewire
+        <br>Flutter
     </td>
     <td align="center" width="96">
         <a href="#alpinejs">
