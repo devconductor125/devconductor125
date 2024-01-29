@@ -74,8 +74,8 @@ I have been working an individual full-stack developer for 8+ years.
       <br>Vue JS
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#nuxtjs">
+        <img src="https://seekicon.com/free-icon-download/nextjs_1.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt JS
     </td>      
@@ -83,7 +83,7 @@ I have been working an individual full-stack developer for 8+ years.
   
   <tr>
      <td align="center" width="96">
-      <a href="#nuxtjs" >
+      <a href="#php" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -115,7 +115,7 @@ I have been working an individual full-stack developer for 8+ years.
     </td>
     <td align="center" width="96">
         <a href="#reactnative">
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-native-app-icon.png" width="48"
+            <img src="https://seekicon.com/free-icon-download/react_5.svg" width="48"
                 height="48" alt="alpinejs" />
         </a>
         <br>React Native
