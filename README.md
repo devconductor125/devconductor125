@@ -1,4 +1,4 @@
-![image](https://github.com/devconductor125/devconductor125/assets/137276110/3c3bafeb-8eb3-4d15-98b2-74bc30e056b4)- 👋 Hi, I’m @devconductor125
+👋 Hi, I’m @devconductor125
 
 I have been working an individual full-stack developer for 8+ years.
 
