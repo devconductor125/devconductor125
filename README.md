@@ -114,11 +114,11 @@ I have been working an individual full-stack developer for 8+ years.
         <br>Flutter
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+        <a href="#reactnative">
+            <img src="https://seekicon.com/free-icon-download/react_5.svg" width="48"
                 height="48" alt="alpinejs" />
         </a>
-        <br>Alpine JS
+        <br>React Native
     </td>   
   </tr>
    <tr>
