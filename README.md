@@ -115,7 +115,7 @@ I have been working an individual full-stack developer for 8+ years.
     </td>
     <td align="center" width="96">
         <a href="#reactnative">
-            <img src="https://seekicon.com/free-icon-download/react_5.svg" width="48"
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-native-app-icon.png" width="48"
                 height="48" alt="alpinejs" />
         </a>
         <br>React Native
